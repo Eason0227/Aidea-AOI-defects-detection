@@ -24,8 +24,8 @@ AOI影像資料由工研院在Aidea釋出作為開放性議題，供參賽者建
 * DenseNet169 
 
 ## 模型結果
-![image](https://user-images.githubusercontent.com/102510341/223765897-e633abf9-c5ab-43d1-b811-cdea57c49b14.png)
-![image](https://user-images.githubusercontent.com/102510341/223765858-e5bff024-45f2-46f3-8434-61fc7d38bfc1.png)
+![image](https://user-images.githubusercontent.com/102510341/223766452-53edbe46-d4ed-406d-ae44-8f298296f5d6.png)
+![image](https://user-images.githubusercontent.com/102510341/223766432-65a48acd-f2cc-43c7-95af-be69e1e83738.png)
 
 
 ## 最終結果
