@@ -23,7 +23,9 @@ AOI影像資料由工研院在Aidea釋出作為開放性議題，供參賽者建
 * Xception
 * DenseNet169 
 
-##模型結果
+## 模型結果
+![image](https://user-images.githubusercontent.com/102510341/223765897-e633abf9-c5ab-43d1-b811-cdea57c49b14.png)
+![image](https://user-images.githubusercontent.com/102510341/223765858-e5bff024-45f2-46f3-8434-61fc7d38bfc1.png)
 
 
 ## 最終結果
