@@ -20,7 +20,7 @@ AOI影像資料由工研院在Aidea釋出作為開放性議題，供參賽者建
 
 ## 使用模型
 * InceptionResNet_v2
-* xception
+* Xception
 * DenseNet169 
 
 ## 最終結果
