@@ -25,3 +25,5 @@ AOI影像資料由工研院在Aidea釋出作為開放性議題，供參賽者建
 
 ## 最終結果
 將測試資料的預測結果上傳Aidea平台評分，10,142張測試資料的準確度達到99.4%，排名為23/494(Top4%)
+
+![image](https://user-images.githubusercontent.com/102510341/223746187-bb56f2f2-cab9-435e-a016-f053935a48d3.png)
