@@ -1,7 +1,7 @@
 # Aidea-AOI
  CNN model for detecting defects on AOI images
 
-此專案為藉由AOI影像訓練深度學習模型辨識產品表面瑕疵，使用框架為TensorFlow。結果顯示預訓練InceptionResNet_v2模型的測試準確達到99%。
+此專案為藉由AOI影像訓練深度學習模型辨識產品表面瑕疵，使用框架為TensorFlow。結果顯示預訓練Xception模型的測試準確達到99.4%。
 
 ## 資料來源
 AOI影像資料由工研院在Aidea釋出作為開放性議題，供參賽者建立瑕疵辨識模型。  
@@ -20,6 +20,8 @@ AOI影像資料由工研院在Aidea釋出作為開放性議題，供參賽者建
 
 ## 使用模型
 * InceptionResNet_v2
+* xception
+* DenseNet169 
 
 ## 最終結果
 將測試資料的預測結果上傳Aidea平台評分，10,142張測試資料的準確度達到99%
