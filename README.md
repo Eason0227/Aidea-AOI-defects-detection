@@ -21,11 +21,14 @@ AOI影像資料由工研院在Aidea釋出作為開放性議題，供參賽者建
 ## 使用模型
 * InceptionResNet_v2
 * Xception
-* DenseNet169 
+* DenseNet169
+* ResNet152
+* Inception_v3
+* MobileNet v2
+* VGG19
 
 ## 模型結果
-![image](https://user-images.githubusercontent.com/102510341/223766452-53edbe46-d4ed-406d-ae44-8f298296f5d6.png)
-![image](https://user-images.githubusercontent.com/102510341/223766432-65a48acd-f2cc-43c7-95af-be69e1e83738.png)
+![image](https://github.com/Eason0227/Aidea-AOI-defects-detection/assets/102510341/8a3a07e9-8aa5-4f5c-932d-9f0a29fee442)
 
 
 ## 最終結果
